@@ -1,6 +1,5 @@
 # SearchEngine Pro v3.2
 
-![SearchEngine Pro Logo](docs/images/logo.png)
 
 **A comprehensive interactive console-based web search engine with advanced features and real-time search capabilities.**
 
