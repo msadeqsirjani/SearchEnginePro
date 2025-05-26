@@ -1,0 +1,33 @@
+# SearchEngine Pro - Default Configuration
+# This file contains the default settings for the search engine
+
+search:
+  results_per_page: 10
+  default_timeout: 30
+  max_retries: 3
+  user_agent: "SearchEngine Pro/3.2"
+  request_delay: 0.5
+
+display:
+  colors: true
+  animations: true
+  unicode_symbols: true
+  max_snippet_length: 200
+  show_metadata: true
+
+cache:
+  enabled: true
+  search_ttl: 3600  # 1 hour in seconds
+  max_size: 1000
+  cleanup_interval: 300  # 5 minutes
+
+history:
+  max_entries: 1000
+  save_to_file: true
+  auto_cleanup_days: 30
+
+api:
+  default_provider: "google"
+  providers: {}
+  api_keys: {}
+  rate_limits: {} 

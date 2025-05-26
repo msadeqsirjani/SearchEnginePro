@@ -1,0 +1,14 @@
+# SearchEngine Pro - Example Queries
+# This file contains sample queries for batch processing
+# Lines starting with # are comments and will be ignored
+
+python programming tutorial
+machine learning algorithms
+"artificial intelligence"
+site:github.com python projects
+how to learn programming
+web development 2024
+data science +python
+javascript -jquery
+climate change effects
+latest technology news 
